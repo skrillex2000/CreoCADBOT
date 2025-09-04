@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CreoCADBOT": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
